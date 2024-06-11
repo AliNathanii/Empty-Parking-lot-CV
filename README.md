@@ -28,3 +28,6 @@ This project detects available parking spots in a video stream using OpenCV and 
 To run the script, use the following command:
 ```sh
 python main.py
+```
+
+You can find the data (mp4 files) here: https://drive.google.com/drive/folders/1sOxXnZr3i3JSjry-9bwUaPwD5-hIcaTP?usp=sharing
