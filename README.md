@@ -8,7 +8,7 @@ This project detects available parking spots in a video stream using OpenCV and 
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/parking-spot-detection.git
+    git clone https://github.com/AliNathanii/parking-spot-detection.git
     cd parking-spot-detection
     ```
 
